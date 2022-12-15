@@ -5,7 +5,7 @@ pragma solidity 0.8.17;
 import "@chainlink/contracts/src/v0.8/VRFConsumerBase.sol";
 
 
-/// @title Deriv coin flip coding challenge
+/// @title Coin flip coding challenge
 /// @author Taylor Ferran
 /// @notice A contract which allows a user to wager some matic and 
 /// call coinFlip, if the contract contains at least double what 
